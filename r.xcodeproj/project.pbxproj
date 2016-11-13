@@ -196,7 +196,7 @@
 				TargetAttributes = {
 					FC2421B11DD7FCF200C3515A = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = AA8CC89563;
+						DevelopmentTeam = PYTF6JBVM3;
 						ProvisioningStyle = Automatic;
 					};
 					FC2421C81DD7FCF200C3515A = {
@@ -419,7 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AA8CC89563;
+				DEVELOPMENT_TEAM = PYTF6JBVM3;
 				INFOPLIST_FILE = r/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = JG.r;
@@ -432,7 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = AA8CC89563;
+				DEVELOPMENT_TEAM = PYTF6JBVM3;
 				INFOPLIST_FILE = r/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = JG.r;
